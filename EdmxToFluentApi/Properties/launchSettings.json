@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EdmxToFluentApi": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\tmp\\freteiro\\ModeloDados.edmx"
+    }
+  }
+}
